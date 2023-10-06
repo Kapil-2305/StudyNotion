@@ -1,6 +1,6 @@
 # StudyNotion Online Education Platform (MERN App) [Website Link](https://study-notion-kapil-2305.vercel.app/)
 
-![Main Page](/src/assets/Images/HomePage.png)
+![Main Page](https://res.cloudinary.com/dgpkeaffc/image/upload/v1696608912/HomePage_njxcrr.png)
 
 ## Project Description
 
